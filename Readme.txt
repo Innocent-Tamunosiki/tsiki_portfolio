@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Portfolio Name: personal_portfolio
+portfolio URL: tamunosiki.netlify.app
+Author: Innocent Tamunosiki
+License: tamunosiki.netlify.app/license/
